@@ -1,0 +1,6 @@
+classes= 2
+train  = /home/lee/darknet/scripts/train.txt
+//valid  = /home/lee/darknet/2007_test.txt
+names = data/voc.names
+backup = /home/lee/darknet/scripts/
+
